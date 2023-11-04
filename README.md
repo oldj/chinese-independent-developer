@@ -2245,8 +2245,8 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
 * :white_check_mark: [PriceTag](https://itunes.apple.com/cn/app/price-tag/id1166819590?mt=8)：应用资讯即刻知晓
 
 #### oldj
-* :white_check_mark: [妙笔](https://wonderpen.app)：Mac 平台写作软件 - [更多介绍](https://docs.wonderpen.app/)
-* :white_check_mark: [SwitchHosts!](https://swh.app)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
+* :white_check_mark: [妙笔](https://wonderpen.app)：强大易用的写作软件 - [更多介绍](https://help.tominlab.com/wonderpen)
+* :white_check_mark: [SwitchHosts!](https://switchhosts.vercel.app)：便捷的 Hosts 管理工具 - [更多介绍](https://github.com/oldj/SwitchHosts)
 
 #### Kenshin
 * :white_check_mark: [简悦](http://ksria.com/simpread/)：让你瞬间进入沉浸式阅读的 Chrome 扩展 - [更多介绍](https://wanqu.io/t/200-chrome/7181)
